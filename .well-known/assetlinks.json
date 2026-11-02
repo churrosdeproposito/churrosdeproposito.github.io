@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.churrosdeproposito.twa",
-        "sha256_cert_fingerprints": ["14:28:51:0F:E4:62:13:DF:15:69:81:B6:9A:8A:7A:80:D3:22:96:65:B8:76:80:29:92:84:54:B2:06:23:16:34"]
+        "sha256_cert_fingerprints": ["FD:DB:1D:FB:17:65:42:0F:B7:F0:55:82:37:DB:0B:C8:57:8D:4B:5B:6E:55:07:02:FE:7D:B4:54:5C:B6:B4:1C"]
       }
     }]
